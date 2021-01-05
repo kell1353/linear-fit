@@ -1,7 +1,7 @@
-# Project Overview
+# Overview
 In this program will read the data form the results of the 2016 Atomic Mass Experiment (AME) file. the program will use the binding energies in the file to construct theoretical parameters to fit into our theoretical model. 
 
-Which we will then use to calculate binding energies using our theoretical model, and predict the valley of stability, and neutron drip for all the given isotopes.
+We will then use this model to calculate binding energies using our theoretical model, and predict the valley of stability, and neutron drip for all the given isotopes.
 
 
 # Compilation Instructions
